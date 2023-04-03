@@ -27,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		D921E5B729DB39E000D941A2 /* ValidationViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationViewViewModel.swift; sourceTree = "<group>"; };
+		D921E5B929DB46E100D941A2 /* AtividadeExpressaoRegular.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = AtividadeExpressaoRegular.xctestplan; sourceTree = "<group>"; };
 		D9486F9929DB3482004ACF67 /* AtividadeExpressaoRegular.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AtividadeExpressaoRegular.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9486F9C29DB3482004ACF67 /* AtividadeExpressaoRegularApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtividadeExpressaoRegularApp.swift; sourceTree = "<group>"; };
 		D9486F9E29DB3482004ACF67 /* ValidationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationView.swift; sourceTree = "<group>"; };
@@ -58,6 +59,7 @@
 		D9486F9029DB3481004ACF67 = {
 			isa = PBXGroup;
 			children = (
+				D921E5B929DB46E100D941A2 /* AtividadeExpressaoRegular.xctestplan */,
 				D9486F9B29DB3482004ACF67 /* AtividadeExpressaoRegular */,
 				D9486FAD29DB3483004ACF67 /* AtividadeExpressaoRegularTests */,
 				D9486F9A29DB3482004ACF67 /* Products */,

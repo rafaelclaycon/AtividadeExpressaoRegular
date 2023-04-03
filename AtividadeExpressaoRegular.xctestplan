@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "EF0E0E13-C02F-4806-BA49-557EC37DED53",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:AtividadeExpressaoRegular.xcodeproj",
+      "identifier" : "D9486F9829DB3482004ACF67",
+      "name" : "AtividadeExpressaoRegular"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:AtividadeExpressaoRegular.xcodeproj",
+        "identifier" : "D9486FA929DB3483004ACF67",
+        "name" : "AtividadeExpressaoRegularTests"
+      }
+    }
+  ],
+  "version" : 1
+}
