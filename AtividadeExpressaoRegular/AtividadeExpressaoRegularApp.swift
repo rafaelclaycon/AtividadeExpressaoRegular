@@ -11,7 +11,7 @@ import SwiftUI
 struct AtividadeExpressaoRegularApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ValidationView()
         }
     }
 }
