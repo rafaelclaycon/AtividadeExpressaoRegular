@@ -38,7 +38,7 @@ struct ValidationView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct ValidationView_Previews: PreviewProvider {
     
     static var previews: some View {
         ValidationView()

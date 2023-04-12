@@ -12,7 +12,7 @@
 		D9486F9F29DB3482004ACF67 /* ValidationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9486F9E29DB3482004ACF67 /* ValidationView.swift */; };
 		D9486FA129DB3483004ACF67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9486FA029DB3483004ACF67 /* Assets.xcassets */; };
 		D9486FA429DB3483004ACF67 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9486FA329DB3483004ACF67 /* Preview Assets.xcassets */; };
-		D9486FAF29DB3483004ACF67 /* AtividadeExpressaoRegularTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9486FAE29DB3483004ACF67 /* AtividadeExpressaoRegularTests.swift */; };
+		D9486FAF29DB3483004ACF67 /* ValidationViewViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9486FAE29DB3483004ACF67 /* ValidationViewViewModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +35,7 @@
 		D9486FA329DB3483004ACF67 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D9486FA529DB3483004ACF67 /* AtividadeExpressaoRegular.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AtividadeExpressaoRegular.entitlements; sourceTree = "<group>"; };
 		D9486FAA29DB3483004ACF67 /* AtividadeExpressaoRegularTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AtividadeExpressaoRegularTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D9486FAE29DB3483004ACF67 /* AtividadeExpressaoRegularTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtividadeExpressaoRegularTests.swift; sourceTree = "<group>"; };
+		D9486FAE29DB3483004ACF67 /* ValidationViewViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationViewViewModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +99,7 @@
 		D9486FAD29DB3483004ACF67 /* AtividadeExpressaoRegularTests */ = {
 			isa = PBXGroup;
 			children = (
-				D9486FAE29DB3483004ACF67 /* AtividadeExpressaoRegularTests.swift */,
+				D9486FAE29DB3483004ACF67 /* ValidationViewViewModelTests.swift */,
 			);
 			path = AtividadeExpressaoRegularTests;
 			sourceTree = "<group>";
@@ -214,7 +214,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9486FAF29DB3483004ACF67 /* AtividadeExpressaoRegularTests.swift in Sources */,
+				D9486FAF29DB3483004ACF67 /* ValidationViewViewModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

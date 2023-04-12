@@ -1,5 +1,5 @@
 //
-//  AtividadeExpressaoRegularTests.swift
+//  ValidationViewViewModelTests.swift
 //  AtividadeExpressaoRegularTests
 //
 //  Created by Rafael Schmitt on 03/04/23.
@@ -8,7 +8,7 @@
 import XCTest
 @testable import AtividadeExpressaoRegular
 
-final class AtividadeExpressaoRegularTests: XCTestCase {
+final class ValidationViewViewModelTests: XCTestCase {
     
     private var sut: ValidationViewViewModel!
     
